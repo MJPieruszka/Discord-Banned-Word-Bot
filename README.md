@@ -26,11 +26,8 @@ To use this bot, you need to have the following:
 Before running the bot, you need to provide some configuration details.
 
 1. Open the file index.js in a text editor.
-
 2. Replace 'YOUR TOKEN HERE' with your Discord bot token. This can be found in the Discord Developer Portal.
-
 3. Add the banned words that you want the bot to detect by modifying the BAN_WORDS array. For example: const BAN_WORDS = ['WORD1', 'WORD2', 'WORD3'];
-
 4. Specify the target channel ID where the bot will send ban notifications. Replace 'CHANNEL ID' with the actual channel ID.
 
 ## Usage:
