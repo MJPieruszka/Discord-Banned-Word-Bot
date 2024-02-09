@@ -14,6 +14,8 @@ To use this bot, you need to have the following:
 
 ## Installation:
 
+***
+
 1. Clone the repository:
    git clone https://github.com/your-username/discord-banned-word-bot.git
 
